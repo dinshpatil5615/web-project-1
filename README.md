@@ -1,2 +1,3 @@
-# web-project-1
+# js
+
 the project is about html , css and js
